@@ -9,7 +9,7 @@ public class Click4 {
         driver.get("http://www.webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html");
 
         Thread.sleep(2000);
-        Select checkboxe = new Select()
+        //Select checkboxe = new Select();
 
 
 
